@@ -1,2 +1,3 @@
-# kaggle_notebooks
-kaggle_notebooks
+# Kaggle notebooks
+Place for my kaggle jupyter notebooks
+account: https://www.kaggle.com/hrachubi
